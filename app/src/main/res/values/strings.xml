@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">girls</string>
+    <string name="girls_name_1">kriti sanon</string>
+    <string name="girls_description">indian actress</string>
+    <string name="girls_name_2">kiara advani</string>
+    <string name="girls_name_3">katrina kaif</string>
+    <string name="girls_name_4">alia bhatt</string>
+    <string name="girls_name_5">shraddha kapoor</string>
+    <string name="girls_name_6">anushka sharma</string>
+    <string name="girls_name_7">ananya pandey</string>
+    <string name="girls_name_8">deepika padukone</string>
+    <string name="girls_name_9">sara ali khan</string>
+    <string name="girls_name_10">tara sutaria</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a girls.</string>
+</resources>
